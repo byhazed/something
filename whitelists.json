@@ -1,0 +1,13 @@
+{
+  "whitelist": {
+    "470249068": { "level": 999, "note": "i'm the greatest" },
+  },
+  "chancebased": {
+    "userID": 1,
+    "rolls": [
+      { "chance": 70, "level": 1 },
+      { "chance": 20, "level": 2 },
+      { "chance": 10, "level": 5 }
+    ]
+  }
+}
